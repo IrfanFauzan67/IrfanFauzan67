@@ -14,7 +14,7 @@ CSS(proses) GitHub(proses)
 # 🚀 Project Semester 1
 
 ### 📂 Project UTS
-- [Project Semester 1](https://github.com/USERNAME-KAMU/Project-UTS-Semester-1) - Tugas UTS Pertemuan 5
+- [Project Semester 1](https://github.com/IrfanFauzan67/Project-UTS-Semester-1) - Tugas UTS Pertemuan 5
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrfanFauzan67/IrfanFauzan67/output/pacman-contribution-graph-dark.svg">
