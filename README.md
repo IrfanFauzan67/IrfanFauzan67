@@ -15,11 +15,3 @@ CSS(proses) GitHub(proses)
 
 ### 📂 Project UTS
 - [Project Semester 1](https://github.com/IrfanFauzan67/Project-UTS-Semester-1) - Tugas UTS Pertemuan 5
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrfanFauzan67/IrfanFauzan67/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrfanFauzan67/IrfanFauzan67/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IrfanFauzan67/IrfanFauzan67/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
