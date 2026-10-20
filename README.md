@@ -13,9 +13,7 @@ CSS(proses) GitHub(proses)
 
 # 🚀 Project Semester 1
 
-> Tugas UTS - Mata Kuliah Pengenalan Dunia Kerja
-
-![Status](https://img.shields.io/badge/Status-Selesai-brightgreen)
-![Semester](https://img.shields.io/badge/Semester-1-blue)
+### 📂 Project UTS
+- [Project Semester 1](https://github.com/USERNAME-KAMU/Project-UTS-Semester-1) - Tugas UTS Pertemuan 5
 
 ![snake gif](https://github.com/USERNAME-KAMU/USERNAME-KAMU/blob/output/github-contribution-grid-snake.gif)
