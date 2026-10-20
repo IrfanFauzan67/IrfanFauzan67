@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Irfan 👋
 
-<!--
-**IrfanFauzan67/IrfanFauzan67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Saya adalah mahasiswa Semester 1 - Teknik Informatika
+- 🌱 Saya sedang belajar: Git, GitHub, dan Pemrograman Dasar
+- 📫 NIM: 552012610006
+- ⚡ Motto: Menjadi 1% jauh lebih baik ketimbang kemarin
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+CSS(proses) GitHub(proses)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrfanFauzan67&show_icons=true&theme=tokyonight)
+
+### 📂 Project UTS
+- [Project Semester 1](https://github.com/IrfanFauzan67/Project-Semester-1) - Tugas UTS Pertemuan 5
