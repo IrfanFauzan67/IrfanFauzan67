@@ -1,4 +1,4 @@
-### Hi there, I'm Irfan 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Irfan+👋;Informatics+Student;Welcome+to+my+GitHub! )](https://git.io/typing-svg)
 
 - 🔭 Saya adalah mahasiswa Semester 1 - Teknik Informatika
 - 🌱 Saya sedang belajar: Git, GitHub, dan Pemrograman Dasar
