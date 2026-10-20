@@ -11,5 +11,11 @@ CSS(proses) GitHub(proses)
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrfanFauzan67&show_icons=true&theme=tokyonight)
 
-### 📂 Project UTS
-- [Project Semester 1](https://github.com/IrfanFauzan67/Project-Semester-1) - Tugas UTS Pertemuan 5
+# 🚀 Project Semester 1
+
+> Tugas UTS - Mata Kuliah Pengenalan Dunia Kerja
+
+![Status](https://img.shields.io/badge/Status-Selesai-brightgreen)
+![Semester](https://img.shields.io/badge/Semester-1-blue)
+
+![snake gif](https://github.com/USERNAME-KAMU/USERNAME-KAMU/blob/output/github-contribution-grid-snake.gif)
