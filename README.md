@@ -53,7 +53,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IrfanFauzan67&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github.com/IrfanFauzan67/IrfanFauzan67/blob/output/pacman-contribution-graph/dark/pacman.svg?raw=true" />
 </p>
 
 ---
