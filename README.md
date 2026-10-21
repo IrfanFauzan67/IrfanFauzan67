@@ -51,11 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanFauzan67&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </div>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github.com/IrfanFauzan67/IrfanFauzan67/blob/output/pacman-contribution-graph/dark/pacman.svg?raw=true" />
-</p>
-
 ---
 
 ### 🚀 My Projects
