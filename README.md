@@ -35,7 +35,7 @@
 ### 🎮 Pac-Man Contribution - My Code Eaten!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IrfanFauzan67/IrfanFauzan67/output/pacman-contribution-graph/dark/pacman.svg" alt="Pacman Graph" />
+  <img src="https://github.com/IrfanFauzan67/IrfanFauzan67/blob/output/pacman-contribution-graph-dark.svg" alt="Pacman Graph" />
   <br/>
   <i>Kontribusi harian saya dimakan Pac-Man! 🟡</i>
 </p>
