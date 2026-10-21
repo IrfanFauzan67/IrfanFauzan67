@@ -3,6 +3,8 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Irfan+%F0%9F%91%8B;Informatics+Student+Semester+1;Aspiring+Software+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <p>
     <img src="https://img.shields.io/badge/Focus-Informatics-58A6FF?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Motto-1%25%20Better%20Every%20Day-00D084?style=for-the-badge" />
