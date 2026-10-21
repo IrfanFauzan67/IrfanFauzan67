@@ -68,7 +68,8 @@
 <div align="center">
   <img src="./denia.gif" width="280" style="border-radius:20px;" />
 </div>
-  
+
+<div align="center">
   ### Terima kasih sudah mampir! 🙌
   *Langkah kecil hari ini, awal perjalanan besar di dunia teknologi!*
 
