@@ -66,12 +66,13 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0e1117&height=120&section=footer&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Improve%20%E2%80%A2%20Repeat&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
-
-<img align="right" src="./denia.gif" width="220" />
+  <img src="./denia.gif" width="280" style="border-radius:20px;" />
 
   ### Terima kasih sudah mampir! 🙌
   *Langkah kecil hari ini, awal perjalanan besar di dunia teknologi!*
 
   <img src="https://komarev.com/ghpvc/?username=IrfanFauzan67&label=Profile%20views&color=58A6FF&style=flat" alt="views" />
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0e1117&height=120&section=footer&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Improve%20%E2%80%A2%20Repeat&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
